@@ -4,7 +4,7 @@ import { useState, ReactElement } from 'react';
 import { Download, MapPin, Navigation, UtensilsCrossed, Truck, Cross, Menu, X, Star, Users, Clock, Shield, Linkedin } from 'lucide-react';
 
 // Download link constant - replace with your actual download link
-const DOWNLOAD_LINK = "/Dugga Dugga App - Arghyadeep Roy.apk";
+const DOWNLOAD_LINK = "https://github.com/arghyadeeproy/duuga-dugga-landing/releases/download/v.1.0.0/Dugga.Dugga.App.-.Arghyadeep.Roy.apk";
 const LINKEDIN_LINK = "https://www.linkedin.com/in/arghyadeep-roy-5b8a07221/";
 
 interface Feature {
