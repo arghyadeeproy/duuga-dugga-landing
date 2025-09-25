@@ -69,7 +69,7 @@ export default function Home() {
   ];
 
   const stats: Stat[] = [
-    { number: "120+", label: "Pandals Mapped" },
+    { number: "115+", label: "Pandals Mapped" },
     { number: "Beta", label: "Version Status" },
     { number: "🚀", label: "Coming Soon" },
     { number: "24/7", label: "Support" }
